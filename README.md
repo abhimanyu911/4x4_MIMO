@@ -11,4 +11,4 @@ This repo is a MATLAB implementation of the research paper:
 
 **The steps involved in the project are as follows:
 
-<img src="./1.jpg" width="256">
+<img src="./1.jpg" width="512">
